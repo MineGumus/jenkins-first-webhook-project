@@ -1,2 +1,2 @@
-print("Hello World from Gumus Family!)
+print("Hello World from Gumus Family!")
 
